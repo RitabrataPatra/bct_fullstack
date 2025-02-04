@@ -1,3 +1,3 @@
-## BCT FULL STACK DEMO REPO
+# BCT FULL STACK DEMO REPO
 
-# Created html and css projects till now and learnt about github
+## Created html and css projects till now and learnt about github
